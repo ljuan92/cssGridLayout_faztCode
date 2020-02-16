@@ -11,7 +11,7 @@ body {
 }
 
 
-/* HEADER */
+/* HEADER
 
 .title h1 {
   padding: 20px 0;
@@ -20,11 +20,20 @@ body {
   text-transform: uppercase;
 }
 
+
+*/
+
+
+
 .container {
   background: #fff;
+
+  /*
   width: 90%;
   max-width: 1000px;
   margin: 1.6em auto;
+
+  */
 
   display: grid;
   gap: 1.6em;
